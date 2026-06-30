@@ -8,7 +8,7 @@
 
 **Last Minute Life Saver** is a premium, dark-mode glassmorphic mobile application designed to prevent burnout, manage workload overhead, and deliver emergency assistance when things fall apart. Built with React Native, Expo, and Zustand, the product combines the design aesthetics of **Apple Intelligence, Motion, Linear, and Notion**.
 
-🔗 **Live Web Demo:** [https://dist-ecru-two-97.vercel.app](https://dist-ecru-two-97.vercel.app)
+🔗 **Live Web Demo:** https://last-minute-life-saver-273dc.web.app
 
 ---
 
